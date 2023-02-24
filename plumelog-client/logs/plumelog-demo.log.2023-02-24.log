@@ -1,0 +1,72 @@
+2023-02-24 11:10:18.594  WARN 2588 --- [           main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/Users/young/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/Users/young/.m2/repository/org/json/json/20220320/json-20220320.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-02-24 11:10:18.627  INFO 2588 --- [           main] c.y.log.PlumelogClientApplicationTests   : Starting PlumelogClientApplicationTests using Java 17.0.6 with PID 2588 (started by young in /Users/young/IdeaProjects/plumelog-example/plumelog-client)
+2023-02-24 11:10:18.628  INFO 2588 --- [           main] c.y.log.PlumelogClientApplicationTests   : The following 1 profile is active: "default"
+2023-02-24 11:10:18.974  INFO 2588 --- [           main] c.y.log.PlumelogClientApplicationTests   : Started PlumelogClientApplicationTests in 0.55 seconds (process running for 0.867)
+2023-02-24 11:12:33.335  WARN 2675 --- [           main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/Users/young/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/Users/young/.m2/repository/org/json/json/20220320/json-20220320.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-02-24 11:12:33.372  INFO 2675 --- [           main] c.y.log.PlumelogClientApplicationTests   : Starting PlumelogClientApplicationTests using Java 17.0.6 with PID 2675 (started by young in /Users/young/IdeaProjects/plumelog-example/plumelog-client)
+2023-02-24 11:12:33.372  INFO 2675 --- [           main] c.y.log.PlumelogClientApplicationTests   : The following 1 profile is active: "default"
+2023-02-24 11:12:33.717  INFO 2675 --- [           main] c.y.log.PlumelogClientApplicationTests   : Started PlumelogClientApplicationTests in 0.539 seconds (process running for 0.846)
+2023-02-24 11:14:56.301  WARN 2735 --- [           main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/Users/young/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/Users/young/.m2/repository/org/json/json/20220320/json-20220320.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-02-24 11:14:56.334  INFO 2735 --- [           main] c.y.log.PlumelogClientApplicationTests   : Starting PlumelogClientApplicationTests using Java 17.0.6 with PID 2735 (started by young in /Users/young/IdeaProjects/plumelog-example/plumelog-client)
+2023-02-24 11:14:56.335  INFO 2735 --- [           main] c.y.log.PlumelogClientApplicationTests   : The following 1 profile is active: "default"
+2023-02-24 11:14:56.685  INFO 2735 --- [           main] c.y.log.PlumelogClientApplicationTests   : Started PlumelogClientApplicationTests in 0.545 seconds (process running for 0.882)
+2023-02-24 11:15:14.622  WARN 2757 --- [           main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/Users/young/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/Users/young/.m2/repository/org/json/json/20220320/json-20220320.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-02-24 11:15:14.653  INFO 2757 --- [           main] c.y.log.PlumelogClientApplicationTests   : Starting PlumelogClientApplicationTests using Java 17.0.6 with PID 2757 (started by young in /Users/young/IdeaProjects/plumelog-example/plumelog-client)
+2023-02-24 11:15:14.655  INFO 2757 --- [           main] c.y.log.PlumelogClientApplicationTests   : The following 1 profile is active: "default"
+2023-02-24 11:15:14.976  INFO 2757 --- [           main] c.y.log.PlumelogClientApplicationTests   : Started PlumelogClientApplicationTests in 0.505 seconds (process running for 0.787)
+2023-02-24 11:16:26.226  WARN 3800 --- [           main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/Users/young/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/Users/young/.m2/repository/org/json/json/20220320/json-20220320.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-02-24 11:16:26.267  INFO 3800 --- [           main] c.y.log.PlumelogClientApplicationTests   : Starting PlumelogClientApplicationTests using Java 17.0.6 with PID 3800 (started by young in /Users/young/IdeaProjects/plumelog-example/plumelog-client)
+2023-02-24 11:16:26.267  INFO 3800 --- [           main] c.y.log.PlumelogClientApplicationTests   : The following 1 profile is active: "default"
+2023-02-24 11:16:26.610  INFO 3800 --- [           main] c.y.log.PlumelogClientApplicationTests   : Started PlumelogClientApplicationTests in 0.545 seconds (process running for 0.858)
+2023-02-24 11:17:13.912  WARN 4749 --- [           main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/Users/young/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/Users/young/.m2/repository/org/json/json/20220320/json-20220320.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-02-24 11:17:13.950  INFO 4749 --- [           main] c.y.log.PlumelogClientApplicationTests   : Starting PlumelogClientApplicationTests using Java 17.0.6 with PID 4749 (started by young in /Users/young/IdeaProjects/plumelog-example/plumelog-client)
+2023-02-24 11:17:13.950  INFO 4749 --- [           main] c.y.log.PlumelogClientApplicationTests   : The following 1 profile is active: "default"
+2023-02-24 11:17:14.287  INFO 4749 --- [           main] c.y.log.PlumelogClientApplicationTests   : Started PlumelogClientApplicationTests in 0.532 seconds (process running for 0.827)
